@@ -6,7 +6,7 @@
 ██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██║    ╚██╗ ██╔╝ ██║
 ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║     ╚████╔╝  ██║
 ╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝      ╚═══╝   ╚═╝
-                  🔥 RUDRA GOD - REBORN EDITION 🔥
+                  🔥 SK GOD - REBORN EDITION 🔥
 """
 
 import ssl
@@ -43,14 +43,14 @@ except ImportError:
     TRANSFORMERS_AVAILABLE = False
 
 # ==================== CONFIG ====================
-API_ID = YOUR API IS
-API_HASH = 'YOUR API HASH'
-PHONE = '+91YOURNUMBER'
+API_ID = 33897667
+API_HASH = '866a2cc04cb6d1e6c55ce15429ec009f'
+PHONE = '+919203635778'
 
 BOT_TOKENS = [ "BOT TOKEN"
 ]
 
-OWNER_ID = YOUR ID
+OWNER_ID = 8669516143
 ANTHROPIC_API_KEY = ""
 AI_MODEL = "claude-3-5-haiku-20241022"
 USE_LOCAL_AI = True
@@ -93,7 +93,7 @@ DEFAULT_SLIDE_MSGS = [
 "𝐉ᴀʏᴅᴀ ʙᴏʟᴇɢᴀ ᴛᴇʀɪ ᴍᴀ ᴍᴀʀᴅᴜ",
 "𝑻ᴇʀɪ ᴍᴀ ᴋɪ ᴄʜᴜᴛ ᴍᴇ ᴘᴏᴛᴛʏ ᴋʀᴅᴜɴɢᴀ",
 "𝑨𝑩𝑬 𝑯𝑰𝑱𝑫𝑰 𝑴𝑨 𝑲𝑨 𝑳𝑨𝑹𝑲𝑬 ᴛᴇʀᴀ ʙᴀᴘ ᴜᴅʜᴇʀ 𝐑ᴏᴀᴅ ᴘᴇ ʜᴀɪ 𝐓ᴜ ɪᴅʜᴇʀ ғʏᴛᴇʀ ʙᴀɴᴇɢᴀ"
-"RUDRA ʙᴀᴘ ʙᴏʟ 𝐂ʜᴍʀ 🇦🇱🖤",
+"SK ʙᴀᴘ ʙᴏʟ 𝐂ʜᴍʀ 🇦🇱🖤",
 "𝐂ʜᴜᴅ ᴍᴀᴛ ᴄʜᴀᴍʀ ʟᴀʀᴋᴇ ᴛᴇʀɪ ᴍᴀ ʙʜɪ ғʏᴛʀ ᴛʜɪ ɴᴀ😘"
 "𝐓ʀɪ ᴍᴀ ᴋᴏ ᴅɪʟ sᴇ 𝐈 ʟᴏᴠᴇ 𝒀𝒐𝒖"
 ]
